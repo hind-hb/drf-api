@@ -20,4 +20,6 @@ NOTE Refer to the class demo for built out Dockerfile and docker-compose.yml exa
 Update Dockerfile and docker-compose.yml if needed.
 
 
-## PR : [LINK](https://github.com/hind-hb/drf-api/pull/1/commits/8047ef80bd61ba6c618e6f3db5d2b1e7404af465)
+## PR : [docker](https://github.com/hind-hb/drf-api/pull/1/commits/8047ef80bd61ba6c618e6f3db5d2b1e7404af465)
+## PR : [PostGres](https://github.com/hind-hb/drf-api/pull/2/commits/5a36c360074965db3297b68d4dcf5c0e9d78280a)
+
